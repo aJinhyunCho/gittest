@@ -23,6 +23,8 @@ SECRET_KEY = 'xgo$a1z#=tduzlql#wlmxss0sh+tq!vgl*_^n_2ct!m8oha+-^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+USING_DO = True
+
 TEMPLATE_DEBUG = True
 
 ALLOWED_HOSTS = []
