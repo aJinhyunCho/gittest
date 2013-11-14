@@ -25,6 +25,7 @@ DEBUG = True
 
 USING_DO = True
 MASTER_USE = True
+BRANCH_USE = False
 
 TEMPLATE_DEBUG = True
 
