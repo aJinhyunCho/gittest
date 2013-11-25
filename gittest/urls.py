@@ -10,4 +10,5 @@ urlpatterns = patterns('',
     url(r'^newsite/', 'gittest.views.home', name='newsite'),
 
     url(r'^admin/', include(admin.site.urls)),
+    url(r'^test/', 'gittest.views.test', name='test'),
 )
