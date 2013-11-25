@@ -24,6 +24,7 @@ SECRET_KEY = 'xgo$a1z#=tduzlql#wlmxss0sh+tq!vgl*_^n_2ct!m8oha+-^'
 DEBUG = True
 
 USING_DO = True
+MASTER_USE = True
 BRANCH_USE = False
 
 TEMPLATE_DEBUG = True
